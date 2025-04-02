@@ -16,5 +16,8 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2",
     "zx": "^8.4.1"
+  },
+  "dependencies": {
+    "openai": "^4.91.1"
   }
 }
